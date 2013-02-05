@@ -1,0 +1,23 @@
+{
+  "name": "rexp",
+  "version": "0.0.1",
+  "description": "make regexp from minimatch string or regexp string",
+  "main": "rexp.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerbyfc/rexp.git"
+  },
+  "bin": {
+    "rexp": "bin/rexp"
+  },
+  "keywords": [
+    "regexp",
+    "minimatch",
+    "pattern"
+  ],
+  "dependencies": {
+    "minimatch": "0.2.9"
+  },
+  "author": "kerbyfc <kerbyfc@gmail.com>",
+  "license": "BSD"
+}
